@@ -39,7 +39,7 @@ struct StageDetail: Codable {
 // MARK: - NextStage
 struct NextStage: Codable {
     let stage: String
-    let stageStartTimestamp: Date
+    let stageStartTimestamp: String?
 
     enum CodingKeys: String, CodingKey {
         case stage
