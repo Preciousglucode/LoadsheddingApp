@@ -7,6 +7,8 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		7110CE6629E4ABBC0029F9FD /* LoadSheddingViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7110CE6429E4ABBC0029F9FD /* LoadSheddingViewController.swift */; };
+		7110CE6729E4ABBC0029F9FD /* LoadSheddingViewController.xib in Resources */ = {isa = PBXBuildFile; fileRef = 7110CE6529E4ABBC0029F9FD /* LoadSheddingViewController.xib */; };
 		71A7614729DD67AE006F27D6 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 71A7614629DD67AE006F27D6 /* AppDelegate.swift */; };
 		71A7614929DD67AE006F27D6 /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 71A7614829DD67AE006F27D6 /* SceneDelegate.swift */; };
 		71A7614B29DD67AE006F27D6 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 71A7614A29DD67AE006F27D6 /* ViewController.swift */; };
@@ -19,6 +21,8 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		7110CE6429E4ABBC0029F9FD /* LoadSheddingViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LoadSheddingViewController.swift; sourceTree = "<group>"; };
+		7110CE6529E4ABBC0029F9FD /* LoadSheddingViewController.xib */ = {isa = PBXFileReference; lastKnownFileType = file.xib; path = LoadSheddingViewController.xib; sourceTree = "<group>"; };
 		71A7614329DD67AE006F27D6 /* Loadshedding.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = Loadshedding.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		71A7614629DD67AE006F27D6 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		71A7614829DD67AE006F27D6 /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
@@ -67,6 +71,8 @@
 				71A7614829DD67AE006F27D6 /* SceneDelegate.swift */,
 				71A7614A29DD67AE006F27D6 /* ViewController.swift */,
 				71A7614C29DD67AE006F27D6 /* Main.storyboard */,
+				7110CE6429E4ABBC0029F9FD /* LoadSheddingViewController.swift */,
+				7110CE6529E4ABBC0029F9FD /* LoadSheddingViewController.xib */,
 				71A7615229DD67B0006F27D6 /* Assets.xcassets */,
 				71A7615429DD67B0006F27D6 /* LaunchScreen.storyboard */,
 				71A7615729DD67B0006F27D6 /* Info.plist */,
@@ -150,6 +156,7 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				7110CE6729E4ABBC0029F9FD /* LoadSheddingViewController.xib in Resources */,
 				71A7615629DD67B0006F27D6 /* LaunchScreen.storyboard in Resources */,
 				71A7615329DD67B0006F27D6 /* Assets.xcassets in Resources */,
 				71A7614E29DD67AE006F27D6 /* Main.storyboard in Resources */,
@@ -164,6 +171,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				71A7614B29DD67AE006F27D6 /* ViewController.swift in Sources */,
+				7110CE6629E4ABBC0029F9FD /* LoadSheddingViewController.swift in Sources */,
 				71A7615E29DD6E90006F27D6 /* Networking.swift in Sources */,
 				71A7614729DD67AE006F27D6 /* AppDelegate.swift in Sources */,
 				71A7614929DD67AE006F27D6 /* SceneDelegate.swift in Sources */,
